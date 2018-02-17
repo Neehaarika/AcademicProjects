@@ -16,19 +16,21 @@ Spotify Muzik App is for non-commercial use only.
 
 3. Clone the repository to your local system.
 
-4. Open repository folder in visual studio code
+4. Add "API console extension" and "CORS Toggle" extensions to your browser. 
 
-5. Install angular cli : npm install -g @angular/cli (can use command prompt)
+5. Open repository folder in visual studio code
 
-6. Open integrated terminal in visual studio code (or command line) Install dependencies:
+6. Install angular cli : npm install -g @angular/cli (can use command prompt)
+
+7. Open integrated terminal in visual studio code (or command line) Install dependencies:
     - Navigate to \FinalProjectwbdesign> and run "npm i --save serve-static"
     - Navigate to \spotifyupdated\muzik> and run "npm install", "npm install bootstrap --save "
 
-7. Navigate to "\spotifyupdated\muzik" and run the command "npm start" (or) "ng serve"
+8. Navigate to "\spotifyupdated\muzik" and run the command "npm start" (or) "ng serve"
 
-8. Navigate to "FinalProjectwbdesign\Authorisation>" and run the command "node app.js"
+9. Navigate to "FinalProjectwbdesign\Authorisation>" and run the command "node app.js"
 
-9. go to localhost:8888/, login and explore the app :)
+10. Enable the extensions mentioned in point 4, go to localhost:8888/, login and explore the app :)
 
 #-----The above documentation is enough to run and explore the app, below is the info about some functions and code used in the angular for this app-----#
 
